@@ -1,4 +1,4 @@
-#  Classification
+# Project 1: Classification
 ## **Customer Classification Based on Clustering Results**
 
 ## Project Overview
