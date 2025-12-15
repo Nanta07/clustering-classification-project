@@ -1,7 +1,7 @@
 #  Project 1: Classification
 ## **Customer Classification Based on Clustering Results**
 
-## 📌 Project Overview
+## Project Overview
 This project focuses on building a **customer classification system** using supervised machine learning models. The classification labels are derived from a prior **clustering process**, enabling the transformation of unsupervised segmentation results into a predictive model.
 The main goal is to predict customer segments (`Target`) based on transaction behavior, customer profile, and interaction patterns.
 
